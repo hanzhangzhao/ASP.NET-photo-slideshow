@@ -1,0 +1,61 @@
+﻿html, body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+
+h5 {
+    display: inline-block;
+    margin-right: 5vw;
+    margin-left: 7vw;
+}
+
+.navbar {
+    background-color: #f8f9fa !important;
+}
+
+.jumbotron {
+    padding: 32px;
+    text-align: center;
+}
+
+.part1Container {
+    width: 50%;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.p1Label {
+    display: inline-block;
+    font-size: 1.5em;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.plusOne {
+    margin: 2vh 20vw;
+}
+
+/************************************* document ********************************************/
+
+.container {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+}
+
+.coverpage {
+    text-align: center;
+}
+
+    .coverpage p {
+        margin: 7px 0;
+    }
+
+.quickAccess{
+    font-size:11px;
+    position:fixed;
+    top: 30%;
+    left: 3%;
+}

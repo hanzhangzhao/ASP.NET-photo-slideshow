@@ -1,0 +1,86 @@
+﻿html, body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.navbar {
+    background-color: #f8f9fa !important;
+}
+
+.nav-item {
+    margin: 0 10px;
+}
+
+.top {
+    width: 70%;
+    margin-top: 5vh;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 5px;
+}
+
+.slideContainer {
+    width: 560px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.leftControl{
+    float:left;
+
+}
+
+.midControl {
+    
+    float:right;
+}
+
+.rightControl {
+    display: inline-block;
+}
+
+.leftContent {
+    display: inline-block;
+
+}
+
+.midContent {
+    display: inline-block;
+
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.rightContent {
+    display: inline-block;
+
+}
+
+#Label1, #Label2 {
+
+}
+
+#UpdatePanel1 {
+    text-align:center;
+
+}
+
+#StartStopButton{
+    width: 105px;
+}
+
+#SequentialRandomButton{
+    width: 105px;
+}
+
+.slideshowJumbotron {
+    background-color: #e9ecef;
+    border-radius: .3rem;
+    margin-bottom: 2rem;
+    padding: 1rem 2rem;
+    
+}
+
+.lead {
+    font-size: 1rem;
+    font-weight: 300;
+}
